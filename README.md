@@ -10,9 +10,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Vini-vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
+  <a href="https://www.vagrantup.com" target="_blank"><img align="center" alt="Vini-vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" target="_blank"></a> 
   <img align="center" alt="Vini-ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
   <img align="center" alt="Vini-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-      <a href="https://www.vagrantup.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" target="_blank"></a>       
+        
          
 </div>
